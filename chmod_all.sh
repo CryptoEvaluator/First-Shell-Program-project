@@ -8,3 +8,4 @@ do
 done
 
 echo "Adding this code to github."
+echo "Our code become public place by github"
