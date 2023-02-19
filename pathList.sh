@@ -14,5 +14,6 @@ for dir in $PATH; do
 done
 
 echo "your work is done\n"
+echo "I don't understand this operation for commit process"
 
 
