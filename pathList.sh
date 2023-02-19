@@ -13,3 +13,6 @@ for dir in $PATH; do
 	fi
 done
 
+echo "your work is done\n"
+
+
